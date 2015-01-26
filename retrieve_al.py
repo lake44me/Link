@@ -1,4 +1,7 @@
-Python 2.7.9 (default, Dec 10 2014, 12:28:03) [MSC v.1500 64 bit (AMD64)] on win32
-Type "copyright", "credits" or "license()" for more information.
->>> import urllib2
->>> f = urllib2.urlopen('http:
+#!/usr/bin/env python
+import urllib2
+import sys
+
+alephno=sys.argv[1]
+if alephno != null
+f = urllib2.urlopen('http:
